@@ -1371,7 +1371,7 @@ h5 {
 }
 /* line 1129, ../sass/burningman.scss */
 #end.display-bg {
-  background: rgba(0, 0, 0, 0) url(..static/img/record-bkg.jpg) no-repeat fixed;
+  background: rgba(0, 0, 0, 0) url(../static/img/record-bkg.jpg) no-repeat fixed;
   background-size: cover;
 }
 @media (max-width: 500px) {
@@ -1997,7 +1997,7 @@ span.now-playing {
   }
   /* line 1728, ../sass/burningman.scss */
   .touch #end {
-    background: rgba(0, 0, 0, 0) url(../../static/img/record-bkg.jpg) no-repeat;
+    background: rgba(0, 0, 0, 0) url(../static/img/record-bkg.jpg) no-repeat;
     background-size: cover;
     background-attachment: scroll;
     overflow: hidden;
