@@ -2,7 +2,7 @@ yepnope([
 {
 	test : Modernizr.touch,
 	yep  : [],
-	nope : ['/burningman/js/desktop.js']
+	nope : ['burningman/js/desktop.js']
 }
 ]);
 
